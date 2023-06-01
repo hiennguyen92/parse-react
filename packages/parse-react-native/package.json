@@ -1,6 +1,6 @@
 {
-  "name": "@parse/react-native",
-  "version": "0.0.1-alpha.18",
+  "name": "@hiennguyen92/parse-react-native",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -28,7 +28,7 @@
     "build": "tsc --build ./tsconfig.json"
   },
   "dependencies": {
-    "@parse/react-base": "^0.0.1-alpha.18",
-    "@react-native-async-storage/async-storage": "1.15.4"
+    "@hiennguyen92/parse-react-base": "1.0.0",
+    "@react-native-async-storage/async-storage": "1.18.1"
   }
 }
